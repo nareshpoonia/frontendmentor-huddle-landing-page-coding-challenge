@@ -6,7 +6,6 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -26,10 +25,6 @@ Users should be able to:
 
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
-
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
@@ -70,14 +65,14 @@ I would still like to improve my CSS flexbox implimentation
 
 ## Author
 
-- Website - [Add your name here](https://www.nareshpoonia.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nareshpoonia)
-- Twitter - [@yourusername](https://www.twitter.com/naresh_poonia_)
+- Website - [Naresh Poonia](https://www.nareshpoonia.com)
+- Frontend Mentor - [@nareshpoonia](https://www.frontendmentor.io/profile/nareshpoonia)
+- Twitter - [@naresh\*poonia](https://www.twitter.com/naresh_poonia_)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-Jai Pandya reviewed the first draft of the code and help me understand some mistakes
+[Jai Pandya](https://twitter.com/jaipandya) reviewed the first draft of the code and help me understand some mistakes
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
