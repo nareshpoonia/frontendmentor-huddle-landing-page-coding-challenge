@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github repository](https://github.com/nareshpoonia/frontendmentor-huddle-landing-page-coding-challenge)
+- Live Site URL: [live site URL](https://nifty-jennings-ab9cf5.netlify.app/)
   \*\* There are still some changes i want to make i am figuring out that, I'll add the solution link once i am done.
 
 ## My process
@@ -41,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-I used the icons here from Font Awesome.
+How to use the icons here from Font Awesome.
 
 ```html
 <div class="icons">
@@ -51,13 +51,13 @@ I used the icons here from Font Awesome.
 </div>
 ```
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+How to use box-shadow
+
+Position:absolute, position:relative and transform:translate
 
 ### Continued development
 
-I would still like to improve my CSS flexbox implimentation
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I would still like to improve my CSS flexbox implimentation, position and transform property
 
 ### Useful resources
 
@@ -69,10 +69,6 @@ I would still like to improve my CSS flexbox implimentation
 - Frontend Mentor - [@nareshpoonia](https://www.frontendmentor.io/profile/nareshpoonia)
 - Twitter - [@naresh\*poonia](https://www.twitter.com/naresh_poonia_)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
-[Jai Pandya](https://twitter.com/jaipandya) reviewed the first draft of the code and help me understand some mistakes
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+[Jai Pandya](https://twitter.com/jaipandya) reviewed the first draft of the code and help me understand some mistakes & help me rectify the mistakes i couldn't figure out a solution of.
