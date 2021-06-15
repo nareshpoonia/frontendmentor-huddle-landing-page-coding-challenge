@@ -28,9 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repository](https://github.com/nareshpoonia/frontendmentor-huddle-landing-page-coding-challenge)
-- Live Site URL: [live site URL](https://nifty-jennings-ab9cf5.netlify.app/)
-  \*\* There are still some changes i want to make i am figuring out that, I'll add the solution link once i am done.
+- Solution URL: [Github repository](https://github.com/nareshpoonia/frontendmentor-huddle-landing-page-coding-challenge)
+- Live Site URL: [Live site URL](https://nifty-jennings-ab9cf5.netlify.app/)
 
 ## My process
 
