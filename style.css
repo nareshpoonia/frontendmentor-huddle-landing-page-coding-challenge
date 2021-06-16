@@ -19,6 +19,8 @@ body {
   background-image: url(./images/bg-mobile.svg);
   background-repeat: no-repeat;
   background-size: cover;
+  /* padding-top: 80px; */
+  display: flow-root;
 }
 
 .container-main {
@@ -43,8 +45,8 @@ body {
 .logo {
   width: 150px;
   margin-left: 50px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
+  margin-top: 60px;
 }
 
 .main-section {
@@ -55,9 +57,9 @@ body {
 .main-image {
   width: 100%;
   height: auto;
+  margin-bottom: 80px;
 }
 .secondary-section {
-  margin-top: 60px;
   margin-left: 20px;
   margin-right: 20px;
   display: flex;
@@ -80,7 +82,7 @@ body {
 }
 
 .button {
-  margin-top: 30px;
+  margin-top: 20px;
   padding-top: 15px;
   padding-left: 100px;
   padding-right: 100px;
@@ -139,17 +141,22 @@ i:before {
     justify-content: flex-start;
     align-items: center;
     gap: 50px;
-    position: relative;
+    /* position: relative; */
   }
   .secondary-section {
     text-align: left;
     align-items: flex-start;
+    position: relative;
+    top: -10px;
   }
   .button {
     padding-left: 60px;
     padding-right: 60px;
   }
-
+  .button:hover {
+    background-color: rgb(14, 10, 1);
+    color: white;
+  }
   .icons {
     display: flex;
     justify-content: flex-end;
@@ -160,6 +167,9 @@ i:before {
     height: auto;
     flex-basis: 50%;
     flex-shrink: 0;
+  }
+  .main-image {
+    margin-bottom: 0px;
   }
 
   .attribution {
